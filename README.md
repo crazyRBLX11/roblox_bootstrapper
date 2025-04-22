@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official source to download my fork of Bloxstrap is this GitHub repository. However, the only official places to download the official build of Bloxstrap is [here](https://github.com/bloxstraplabs/bloxstrap) and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
@@ -22,7 +22,7 @@
 
 Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
+Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
 
 Bloxstrap is only supported for PCs running Windows.
 
